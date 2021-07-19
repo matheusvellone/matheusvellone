@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Spotify](https://novatorem-97p7xhxtw-matheusvellone.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+[![Spotify](https://novatorem-97p7xhxtw-matheusvellone.vercel.app/api/spotify)](https://open.spotify.com/user/matheusvellone)
 
 <!--
 **matheusvellone/matheusvellone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
